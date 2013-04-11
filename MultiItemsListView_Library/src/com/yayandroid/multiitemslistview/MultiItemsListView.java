@@ -1,7 +1,7 @@
 package com.yayandroid.multiitemslistview;
 
 /**
- * @author Yahya BAYRAMOÐLU
+ * @author Yahya BAYRAMOGLU
  */
 
 import android.content.Context;
